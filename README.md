@@ -1,6 +1,8 @@
 # Windows10lite
 
-Optimized Windows 10 build.
+Windows 10 sürüm22H2
+WİNDOWS 10 HOME ÜZERİNE YAPILMIŞTIR
+
 
 ## Download ISO
 [DOWNLOAD HERE](BURAYA_LINK)
