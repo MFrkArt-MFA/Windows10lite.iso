@@ -15,6 +15,9 @@ WİNDOWS 10 HOME ÜZERİNE YAPILMIŞTIR
 # Download ISO v2
 [DOWNLOAD HERE]
 
+# Fotoğraf Görüntüleyicisini Getirmek İçin
+[DOWNLOAD HERE]  burdan indirip kalasör içindeki - .reg - dosyasına çift tıklayarak getirebilirsiniz
+
 <img width="1025" height="764" alt="{E314DB17-D2B6-46A6-9F98-E55364A94DB9}" src="https://github.com/user-attachments/assets/59e2065b-53f3-4768-b21c-73c7bef43f4a" />
 <img width="1026" height="768" alt="{7B85FD25-D62C-41A8-AC1A-ED566EA1E0FB}" src="https://github.com/user-attachments/assets/f091494d-3378-47ca-9b99-a371777006dc" />
 
