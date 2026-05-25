@@ -16,7 +16,7 @@ WİNDOWS 10 HOME ÜZERİNE YAPILMIŞTIR
 [DOWNLOAD HERE](https://drive.google.com/file/d/1e2XZUggP-A_cZBUz6N_hItMTNLWg8iD8/view?usp=drive_link)
 
 # Fotoğraf Görüntüleyicisini Getirmek İçin
-[DOWNLOAD HERE]([https://drive.google.com/file/d/1_NOOrtfTLkqrNJJOXprfPmVBgLb0_PE1/view?usp=drive_link)  burdan indirip kılasör içindeki - .reg - dosyasına çift tıklayarak getirebilirsiniz
+[DOWNLOAD HERE](https://drive.google.com/file/d/1_NOOrtfTLkqrNJJOXprfPmVBgLb0_PE1/view?usp=drive_link)  burdan indirip kılasör içindeki - .reg - dosyasına çift tıklayarak getirebilirsiniz
 
 <img width="1025" height="764" alt="{E314DB17-D2B6-46A6-9F98-E55364A94DB9}" src="https://github.com/user-attachments/assets/59e2065b-53f3-4768-b21c-73c7bef43f4a" />
 <img width="1026" height="768" alt="{7B85FD25-D62C-41A8-AC1A-ED566EA1E0FB}" src="https://github.com/user-attachments/assets/f091494d-3378-47ca-9b99-a371777006dc" />
